@@ -1,0 +1,25 @@
+Słowa kluczowe / kierunek projektowy:
+– ograniczenie czasu ekranowego
+– kontrola zasobów uwagi
+– redukcja powiadomień
+– automatyczna analiza aktywności
+– prosta wizualizacja danych
+
+Propozycje elementów projektu:
+– licznik aktywności w aplikacjach (real-time)
+– system alertów po przekroczeniu progu
+– moduł analizy tygodniowej (wykres słupkowy)
+– konfiguracja limitów na aplikacje/kategorie
+– tryb blokady po osiągnięciu limitu
+
+Wstępne dane wejściowe:
+Kategorie do monitorowania:
+– social, komunikacja, gry, przeglądanie, narzędzia pracy
+
+Parametry:
+– limit dzienny, limit tygodniowy, margines tolerancji, priorytet kategorii
+
+Źródła pomysłu:
+– analiza własnego raportu czasu ekranu
+– notatki z testów aplikacji typu „focus manager”
+– rozmowy ze znajomymi, którzy stosują limity aplikacji

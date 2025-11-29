@@ -1,0 +1,1 @@
+Projekt dotyczy aplikacji pomagającej użytkownikom ograniczyć czas spędzany w mediach społecznościowych. Rozwiązuje problem automatycznego scrollowania oraz braku świadomości czasu online. Odbiorcami są osoby 16–35 lat, które chcą poprawić koncentrację i lepiej kontrolować swoje nawyki cyfrowe. Aplikacja zapewnia licznik czasu, blokady czasowe i krótkie raporty dzienne.

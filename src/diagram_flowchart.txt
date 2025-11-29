@@ -1,0 +1,22 @@
+ [Start]
+              |
+              v
+     [Uruchomienie aplikacji]
+              |
+              v
+     [Wybór aplikacji do śledzenia]
+              |
+              v
+     [Monitorowanie czasu]
+         /            \
+  Limit nie osiągnięty  Limit osiągnięty
+         |                  |
+         v                  v
+   [Kontynuacja]     [Wyświetl ostrzeżenie]
+         \                  /
+          \                /
+               v
+        [Raport dzienny]
+              |
+              v
+            [Koniec]
