@@ -1,3 +1,5 @@
+!['opsi'](merito_lgoo.jpg)
+
 # 📘 Opis Projektu – System Ograniczania Czasu Ekranowego
 
 ## 🔍 1. Streszczenie projektowe
