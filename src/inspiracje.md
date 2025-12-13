@@ -1,3 +1,4 @@
+!['opsi'](merito_lgoo.jpg)
 # 📘 Inspiracje – Projekt Ograniczania Czasu Ekranowego
 
 ## 🔍 1. Cel dokumentu
